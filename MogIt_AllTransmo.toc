@@ -1,0 +1,13 @@
+## Interface: 80300
+## Title: MogIt: AllTransmo
+## Notes: All transmog sets from WowHead for MogIt
+## Notes-ruRU: Все наборы Трансмогрификации
+## Author: EskimosRUS
+## Version: 1.0.1
+## LoadOnDemand: 1
+## RequiredDeps: MogIt
+## X-MogItModuleVersion: 3
+
+
+MogIt_AllTransmo.lua
+Data.lua

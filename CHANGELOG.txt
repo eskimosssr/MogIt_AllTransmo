@@ -1,0 +1,6 @@
+v1.0.1
+ - wowhead.com/item=147074 - DELETED
+ - wowhead.com/item=130017 - replaced by wowhead.com/item=121595
+
+v1.0.0
+  - Initial release
